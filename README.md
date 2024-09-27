@@ -131,8 +131,11 @@ This project was built from [Original Project Name](https://github.com/mesibo/me
   10.Scheduled messages
 
 • Week 3-5: Design and setup.
+
 • Week 6-10: Implementation.
+
 • Week 11-12: Testing and debugging.
+
 • Week 13-14: Final presentation and documentation.
      
 ## Changelog
