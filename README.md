@@ -1,4 +1,5 @@
 ## SD-3101 [Laguna University Community Connect]
+![image](https://github.com/user-attachments/assets/ae4c766e-ce27-47f6-b9e5-85b143946f4c)
 
 ## Table of Contents
 
@@ -113,7 +114,27 @@ Another Screenshot:
 This project was built using the Mesibo Messenger as a base. We would like to thank the Mesibo team for their open-source resources and documentation, which made this project possible.
 
 This project was built from [Original Project Name](https://github.com/mesibo/messenger-app-android), created by [Original Author's Name]. You can view the original repository [here](https://github.com/mesibo/messenger-app-android).
+## Project Timeline
+• Week 1-2: Collaborative Brainstorming for Feature Development
+  ◦ 09/15/2024
+  ◦ https://www.youtube.com/watch?v=qAwml1JgZxQ&t=9s
+   ◦ Proposes Features 
+   1.voice record
+   2. User note
+   3. User myday
+   4. Group polls
+   5.Backg ground themes
+   6. Message pinning
+   7.Forgot Password
+   8.Group mentions
+   9.Group album
+  10.Scheduled messages
 
+• Week 3-5: Design and setup.
+• Week 6-10: Implementation.
+• Week 11-12: Testing and debugging.
+• Week 13-14: Final presentation and documentation.
+     
 ## Changelog
 
 ### [Version 1.0.0] - 2024-09-07
