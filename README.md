@@ -116,8 +116,11 @@ This project was built using the Mesibo Messenger as a base. We would like to th
 This project was built from [Original Project Name](https://github.com/mesibo/messenger-app-android), created by [Original Author's Name]. You can view the original repository [here](https://github.com/mesibo/messenger-app-android).
 ## Project Timeline
 • Week 1-2: Collaborative Brainstorming for Feature Development
+
   ◦ 09/15/2024
+  
   ◦ https://www.youtube.com/watch?v=qAwml1JgZxQ&t=9s
+  
    ◦ Proposes Features 
    1.voice record
    2. User note
