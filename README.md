@@ -121,16 +121,16 @@ This project was built from [Original Project Name](https://github.com/mesibo/me
   ◦ https://www.youtube.com/watch?v=qAwml1JgZxQ&t=9s
   
    ◦ Proposes Features 
-   1.voice record
-   2. User note
-   3. User myday
-   4. Group polls
-   5.Backg ground themes
-   6. Message pinning
-   7.Forgot Password
-   8.Group mentions
-   9.Group album
-  10.Scheduled messages
+   - 1. voice record
+   - 2. User note
+   - 3. User myday
+   - 4. Group polls
+   - 5. Backg ground themes
+   - 6. Message pinning
+   - 7. Forgot Password
+   - 8. Group mentions
+   - 9. Group album
+  - 10. Scheduled messages
 
 • Week 3-5: Design and setup.
 
