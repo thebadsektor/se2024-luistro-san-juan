@@ -118,7 +118,7 @@ This project was built from [Original Project Name](https://github.com/mesibo/me
 • Week 1-2: Collaborative Brainstorming for Feature Development
 
   ◦ 09/15/2024
-  
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=qAwml1JgZxQ&t=9s))
   ◦ https://www.youtube.com/watch?v=qAwml1JgZxQ&t=9s
   
    ◦ Proposes Features 
