@@ -131,6 +131,9 @@ This project was built from [Original Project Name](https://github.com/mesibo/me
    - 8. Group mentions
    - 9. Group album
   - 10. Scheduled messages
+   
+  ◦ 10/17/2024 (Approved Feature)
+  - Group mentions
 
 • Week 3-5: Design and setup.
 
