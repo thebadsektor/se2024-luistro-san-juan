@@ -133,7 +133,7 @@ This project was built from [Original Project Name](https://github.com/mesibo/me
   - 10. Scheduled messages
    
   ◦ 10/17/2024 (Approved Feature)
-  - Group mentions
+  - Group mentions. Target completion: 10/27/2024
 
 • Week 3-5: Design and setup.
 
